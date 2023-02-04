@@ -1,0 +1,20 @@
+{
+	"name": "ipfs-file-share",
+	"version": "1.0.0",
+	"description": "cli tool to share and download large files using the IPFS network",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anik-ghosh-au7/ipfs-file-share.git"
+	},
+	"keywords": [],
+	"author": "anik-ghosh-au7",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/anik-ghosh-au7/ipfs-file-share/issues"
+	},
+	"homepage": "https://github.com/anik-ghosh-au7/ipfs-file-share#readme"
+}
